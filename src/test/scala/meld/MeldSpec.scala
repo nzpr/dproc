@@ -1,0 +1,3 @@
+package meld
+
+class MeldSpec {}
